@@ -2,9 +2,9 @@ THIS REPOSITORY IS CREATED FOR THE STUDENTS WHO JOINED THE CYBERSEC-WINTER BOOTC
 
 
 MENTOR     : ZISHAN ANSARI    [@1337_pr05](https://github.com/1337-pr05)
-INSTRUCTOR : ROHIT CHOUDHARY (https://github.com/hack-sketch)
+INSTRUCTOR : ROHIT CHOUDHARY [@hack-sketch](https://github.com/hack-sketch)
 
-PDF USED IN THE BOOTCAMP CAN WE FOUND HERE 👇
+PDF USED IN THE BOOTCAMP CAN WE FOUND HERE 👉
 [Resource](https://github.com/1337-H4K3R5/BASIC_LINUX_RESOURCE)
 
 GUIDE ON HOW TO UPLOAD THE YOUR ASSIGNMENT!
@@ -26,12 +26,12 @@ it!).
 ● There are Total 84 flags and 50-60% flags are required
 but the
 
-○ Legends will submit all the flags!
+                    ○ Legends will submit all the flags!
 
-++++++++++[>+>+++>+++++++>++++++++++<<<<-]
+`++++++++++[>+>+++>+++++++>++++++++++<<<<-]
 >>>+.++++++++..-----------.<++.>>++++++++.
 <+++++++++++++++++.------------------.++++
-++++.<+.
+++++.<+.`
 
 
 
