@@ -10,7 +10,7 @@ PDF USED IN THE BOOTCAMP CAN WE FOUND HERE 👉
 
 GUIDE ON HOW TO UPLOAD THE YOUR ASSIGNMENT!
 
-              CYBER SECURITY    WINTER BOOTCAMP TASKS!
+                          CYBER SECURITY WINTER BOOTCAMP TASKS!
 
                     ● Create an account on pwn.college .
 
