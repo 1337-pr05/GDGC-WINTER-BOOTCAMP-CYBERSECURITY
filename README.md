@@ -24,7 +24,7 @@ Create a word document of flags and push your documents of flag on https://githu
 request).(hope you know whats it means else google
 it!).
 
-● There are Total 84 flags and 50-60% flags are required
+● There are Total 84 flags and 50-60% flags are required to get the Certificate
 but the
 
                     ○ Legends will submit all the flags!
